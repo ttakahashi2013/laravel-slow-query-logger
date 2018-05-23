@@ -1,5 +1,5 @@
 {
-	"name": "rokde/laravel-slow-query-logger",
+	"name": "ttakahashi2013/laravel-slow-query-logger",
 	"description": "Slow Query Logger for Laravel",
 	"license": "MIT",
 	"authors": [
@@ -10,7 +10,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"Rokde\\LaravelSlowQueryLogger\\": "src/"
+			"TTakahashi2013\\LaravelSlowQueryLogger\\": "src/"
 		}
 	},
 	"minimum-stability": "stable",
